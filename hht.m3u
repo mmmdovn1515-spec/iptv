@@ -1,19 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="mahnitv.az" tvg-name="Mahni TV" group-title="Azerbaijan",Mahni TV
+https://xantv.site/MahniTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ATV.az" tvg-name="ATV Azerbaijan" group-title="Azerbaijan",ATV AZ
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-id="AlvinChannelTV.az@SD",Alvin Channel TV (360p) [Not 24/7]
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="AnewZTV.az@SD",AnewZ
 https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ARB.az@SD",ARB
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:-1 tvg-id="arb.az" tvg-name="ARB TV" group-title="Azerbaijan",ARB TV
+https://yayin2.canlitv.fun/live/arb.stream/chunklist_w1258815983.m3u8?hash=cec92d419795caa3e2e309ac8ee912f4
 #EXTINF:-1 tvg-id="ARB24.az@SD",ARB 24
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
-#EXTINF:-1 tvg-id="ARBGunes.az@SD",ARB Gunes
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1 tvg-id="AzTV.az@SD",Az TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
+#EXTINF:-1 tvg-id="ARBGunes.az" tvg-name="ARB Gunes" group-title="Azerbaijan",ARB Gunes
+https://yayin2.canlitv.fun/live/arbgunes.stream/playlist.m3u8?hash=cec92d419795caa3e2e309ac8ee912f4
+#EXTINF:-1 tvg-id="aztv.az" tvg-name="AzTV" group-title="Azerbaijan",AzTV
+https://yayin2.canlitv.fun/live/aztv.stream/chunklist_w787151975.m3u8?hash=cec92d419795caa3e2e309ac8ee912f4
 #EXTINF:-1 tvg-id="AzStarTV.ca@SD",Azstar TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
+#EXTINF:-1 tvg-id="kanals.az" tvg-name="Kanal S" group-title="Azerbaijan",Kanal S
+https://yayin2.canlitv.fun/live/kanals.stream/chunklist_w1598611360.m3u8?hash=cec92d419795caa3e2e309ac8ee912f4
 #EXTINF:-1 tvg-id="BakuTV.az@SD",Baku TV (720p)
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
 #EXTINF:-1 tvg-id="CBCSport.az@HD",CBC Sport [Geo-blocked]
@@ -22,23 +27,61 @@ https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
 #EXTINF:-1 tvg-id="ELTV.az@SD",EL TV (260p) [Not 24/7]
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 tvg-id="medeniyyet.az" tvg-name="Medeniyyet TV" group-title="Azerbaijan",Medeniyyet TV
+https://yayin2.canlitv.fun/live/medeniyettv.stream/chunklist_w141837821.m3u8?hash=cec92d419795caa3e2e309ac8ee912f4
 #EXTINF:-1 tvg-id="IctimaiTV.az@SD",Ictimai TV
 https://live.itv.az/itv.m3u8
+#EXTINF:-1 tvg-id="idmantv.az" tvg-name="Idman TV" group-title="Azerbaijan",Idman TV
+https://str.yodacdn.net/idmantele/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="IctimaiTV.az@SD",Ictimai TV
 https://node19.connect.az:9081/tv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="StartTV.az@SD",Kanal S TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
 #EXTINF:-1 tvg-id="KapazTV.az@SD",Kapaz TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="",MCJ TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mcj-tv-shop.m3u8
 #EXTINF:-1 tvg-id="",MTV TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mtv-azerbaycan.m3u8
-#EXTINF:-1 tvg-id="SpaceTV.az@SD",Space TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+#EXTINF:-1 tvg-id="spacetv.az" tvg-name="Space TV" group-title="Azerbaijan",Space TV
+https://yayin2.canlitv.fun/live/spacetv.stream/chunklist_w423304914.m3u8?hash=cec92d419795caa3e2e309ac8ee912f4
 #EXTINF:-1 tvg-id="TMB.tr@SD",TMB TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 #EXTINF:-1 tvg-id="",VIP TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
-#EXTINF:-1 tvg-id="XezerTV.az@SD",Xezer TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+#EXTINF:-1 tvg-id="xezertv.az" tvg-name="Xəzər TV" group-title="Azerbaijan",Xəzər TV
+https://yayin2.canlitv.fun/live/xezertv.stream/playlist.m3u8?hash=cec92d419795caa3e2e309ac8ee912f4
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV HD" group-title="Turkey",ATV HD
+https://trkvz-live.ercdn.net/atvhd/atvhd_720p.m3u8?st=Ujhk7wMcPfZ0hiOeheCZfQ&e=1773694497
+#EXTINF:-1 tvg-id="showtv.tr" tvg-name="Show TV HD" group-title="Turkey",Show TV HD
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Show_TV_logo.svg" group-title="Turkey",Show TV
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 HD" group-title="Turkey",TV8 HD
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TV8" group-title="Turkey",TV8
+https://yayin2.canlitv.fun/live/tv-8.stream/chunklist_w209414153.m3u8?hash=cec92d419795caa3e2e309ac8ee912f4
+#EXTINF:-1 tvg-id="TV8Buçuk.tr" tvg-name="TV8 Buçuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/TV8.5_logo.png" group-title="Turkey",TV8 Buçuk
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="Teve2 HD" group-title="Turkey",Teve2 HD
+https://demiroren.daioncdn.net/teve2/teve2_720p.m3u8
+#EXTINF:-1 tvg-id="nowtv.tr" tvg-name="NOW TV HD" group-title="Turkey",NOW TV
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8
+#EXTINF:-1 tvg-id="startv.tr" tvg-name="Star TV HD" group-title="Turkey",Star TV
+https://dogus.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:-1 tvg-id="tv4.tr" tvg-name="TV4 HD" group-title="Turkey",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="Kanal 7 HD" group-title="Turkey",Kanal 7
+https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD" group-title="Turkey",Kanal D
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="Beyaz TV HD" group-title="Turkey",Beyaz TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1 HD" group-title="Turkey",TRT 1
+https://trt.daioncdn.net/trt-1/master.m3u8
+#EXTINF:-1 tvg-id="tv360.tr" tvg-name="TV360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TV360_logo.png" group-title="Turkey",TV360
+https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg" group-title="Kids",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 tvg-id="A2TV.tr" tvg-name="A2 TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/A2_logo.png" group-title="Turkey",A2 TV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_360p.m3u8
+#EXTINF:-1 tvg-id="Cine1.tr" tvg-name="Cine1 TV" tvg-logo="https://cine1.com.tr/assets/logo.png" group-title="Turkey",Cine1 TV
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8
