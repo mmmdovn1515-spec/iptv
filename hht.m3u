@@ -70,7 +70,7 @@ https://yayin2.canlitv.fun/live/kanald.stream/chunklist_w1815600782.m3u8?hash=ce
 #EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="Beyaz TV HD" group-title="Turkey",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1 HD" group-title="Turkey",TRT 1
-https://trt.daioncdn.net/trt-1/master.m3u8
+https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
 #EXTINF:-1 tvg-id="tv360.tr" tvg-name="TV360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TV360_logo.png" group-title="Turkey",TV360
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg" group-title="Kids",TRT Çocuk
