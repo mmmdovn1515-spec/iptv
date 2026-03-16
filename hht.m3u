@@ -33,14 +33,10 @@ https://yayin2.canlitv.fun/live/medeniyettv.stream/chunklist_w141837821.m3u8?has
 https://live.itv.az/itv.m3u8
 #EXTINF:-1 tvg-id="idmantv.az" tvg-name="Idman TV" group-title="Azerbaijan",Idman TV
 https://str.yodacdn.net/idmantele/tracks-v2a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="IctimaiTV.az@SD",Ictimai TV
-https://node19.connect.az:9081/tv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="StartTV.az@SD",Kanal S TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
 #EXTINF:-1 tvg-id="KapazTV.az@SD",Kapaz TV
 http://85.132.78.122:8050/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="",MTV TV
-https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mtv-azerbaycan.m3u8
 #EXTINF:-1 tvg-id="spacetv.az" tvg-name="Space TV" group-title="Azerbaijan",Space TV
 https://yayin2.canlitv.fun/live/spacetv.stream/chunklist_w423304914.m3u8?hash=cec92d419795caa3e2e309ac8ee912f4
 #EXTINF:-1 tvg-id="TMB.tr@SD",TMB TV
@@ -51,28 +47,26 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 https://yayin2.canlitv.fun/live/xezertv.stream/playlist.m3u8?hash=cec92d419795caa3e2e309ac8ee912f4
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV HD" group-title="Turkey",ATV HD
 https://trkvz-live.ercdn.net/atvhd/atvhd_720p.m3u8?st=Ujhk7wMcPfZ0hiOeheCZfQ&e=1773694497
-#EXTINF:-1 tvg-id="showtv.tr" tvg-name="Show TV HD" group-title="Turkey",Show TV HD
-https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Show_TV_logo.svg" group-title="Turkey",Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
-#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8 HD" group-title="Turkey",TV8 HD
-https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="tv8.tr" tvg-name="TV8" group-title="Turkey",TV8
 https://yayin2.canlitv.fun/live/tv-8.stream/chunklist_w209414153.m3u8?hash=cec92d419795caa3e2e309ac8ee912f4
 #EXTINF:-1 tvg-id="TV8Buçuk.tr" tvg-name="TV8 Buçuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/TV8.5_logo.png" group-title="Turkey",TV8 Buçuk
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
-#EXTINF:-1 tvg-id="teve2.tr" tvg-name="Teve2 HD" group-title="Turkey",Teve2 HD
-https://demiroren.daioncdn.net/teve2/teve2_720p.m3u8
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="teve2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Teve2_logo.png" group-title="Turkey",teve2
+https://yayin2.canlitv.fun/live/teve2.stream/chunklist_w431438703.m3u8?hash=cec92d419795caa3e2e309ac8ee912f4
 #EXTINF:-1 tvg-id="nowtv.tr" tvg-name="NOW TV HD" group-title="Turkey",NOW TV
-https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8
-#EXTINF:-1 tvg-id="startv.tr" tvg-name="Star TV HD" group-title="Turkey",Star TV
-https://dogus.daioncdn.net/startv/startv_720p.m3u8
+https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1773711872&st=A0i7Ipii-zHjE_wkfD0XXw
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Star_TV_logo.svg" group-title="Turkey",Star TV
+https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="Star TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Star_TV_logo.svg" group-title="Turkey",Star TV
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=88zu1sgssk1e&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=2
 #EXTINF:-1 tvg-id="tv4.tr" tvg-name="TV4 HD" group-title="Turkey",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
 #EXTINF:-1 tvg-id="kanal7.tr" tvg-name="Kanal 7 HD" group-title="Turkey",Kanal 7
-https://kanal7.daioncdn.net/kanal7/kanal7_1080p.m3u8
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D HD" group-title="Turkey",Kanal D
-https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8
+https://yayin2.canlitv.fun/live/kanald.stream/chunklist_w1815600782.m3u8?hash=cec92d419795caa3e2e309ac8ee912f4
 #EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="Beyaz TV HD" group-title="Turkey",Beyaz TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1 HD" group-title="Turkey",TRT 1
