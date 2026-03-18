@@ -3,10 +3,6 @@
 https://xantv.site/MahniTV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ATV.az" tvg-name="ATV Azerbaijan" group-title="Azerbaijan",ATV AZ
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
-#EXTINF:-1 tvg-id="AlvinChannelTV.az@SD",Alvin Channel TV (360p) [Not 24/7]
-https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="AnewZTV.az@SD",AnewZ
-https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="arb.az" tvg-name="ARB TV" group-title="Azerbaijan",ARB TV
 https://yayin2.canlitv.fun/live/arb.stream/chunklist_w1258815983.m3u8?hash=cec92d419795caa3e2e309ac8ee912f4
 #EXTINF:-1 tvg-id="ARB24.az@SD",ARB 24
@@ -44,7 +40,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:-1 tvg-id="",VIP TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
 #EXTINF:-1 tvg-id="xezertv.az" tvg-name="Xəzər TV" group-title="Azerbaijan",Xəzər TV
-https://yayin2.canlitv.fun/live/xezertv.stream/playlist.m3u8?hash=cec92d419795caa3e2e309ac8ee912f4
+https://mydo.canlitvplayer.com/xazer.m3u8
 #EXTINF:-1 tvg-id="atv.tr" tvg-name="ATV HD" group-title="Turkey",ATV HD
 https://trkvz-live.ercdn.net/atvhd/atvhd_720p.m3u8?st=Ujhk7wMcPfZ0hiOeheCZfQ&e=1773694497
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="Show TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Show_TV_logo.svg" group-title="Turkey",Show TV
