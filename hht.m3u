@@ -72,6 +72,8 @@ https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_720p.m3u8
 #EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1 HD" group-title="Turkey",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TRT 1 HD" group-title="Turkey",TRT 1
+https://proxy.hdtvcanli.com/https://tgn.bozztv.com/gin-36bay4/gt-trteu-3/tracks-v1a1/mono.ts.m3u8?nimblesessionid=1588453681&wmsAuthSign=c2VydmVyX3RpbWU9NS82LzIwMjYgNzoxNDowMyBQTSZoYXNoX3ZhbHVlPUdhWVpWU243Y3M4Q2ppdWJnU3Mvb1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yMQ==
 #EXTINF:-1 tvg-id="tv360.tr" tvg-name="TV360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/TV360_logo.png" group-title="Turkey",TV360
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Çocuk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg" group-title="Kids",TRT Çocuk
