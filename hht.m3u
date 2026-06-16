@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="mahnitv.az" tvg-name="Mahni TV" group-title="Azerbaijan",Mahni TV
-https://xantv.site/MahniTV/tracks-v1a1/mono.ts.m3u8
+https://hls.mahnitv.az/TV_AZE_MahniTV/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ATV.az" tvg-name="ATV Azerbaijan" group-title="Azerbaijan",ATV AZ
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
 #EXTINF:-1 tvg-id="arb.az" tvg-name="ARB TV" group-title="Azerbaijan",ARB TV
